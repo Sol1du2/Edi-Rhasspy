@@ -1,5 +1,6 @@
-living room
-filament container
-office
-(hall | hallway):hall
+(balcony | outside):balcony
 bedroom
+living room
+(filament container | filament box):filament box
+(hall | hallway):hall
+office
